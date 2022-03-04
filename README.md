@@ -1,1 +1,9 @@
 # Kaggle
+
+## Tabular Data
+| Competition                                                                         | Problem Type               | Notebook (colab)                                                                                            |
+|-------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------|
+| [Titanic](https://www.kaggle.com/c/titanic)                                         | Binary Classification      | [Titanic.ipynb](https://colab.research.google.com/drive/1okqZ7yFba9xVnke9Px3AapLunupCeMog?usp=sharing)      |
+| [House Price](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression                 | [House_Price.ipynb](https://colab.research.google.com/drive/1n9XYmcvefp6rSD-rH7uZqfw3eVQ_cnxh?usp=sharing)  |
+| [Forest Cover Type](https://www.kaggle.com/c/forest-cover-type-prediction)          | Multi-class Classification | [Forest_Type.ipynb](https://colab.research.google.com/drive/1n9XYmcvefp6rSD-rH7uZqfw3eVQ_cnxh?usp=sharing)  |
+| [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)                 | Multi-Output Regression    | [Bike_Sharing.ipynb](https://colab.research.google.com/drive/1n9XYmcvefp6rSD-rH7uZqfw3eVQ_cnxh?usp=sharing) |                                                                                                                                                                                                                                                                                          |              |                  |
