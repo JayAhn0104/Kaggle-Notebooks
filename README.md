@@ -1,4 +1,4 @@
-# Kaggle
+# Kaggle Notebooks
 
 ## Tabular Data
 | Competition                                                                         | Problem Type               | Notebook (colab)                                                                                            |
