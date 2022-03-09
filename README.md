@@ -13,6 +13,6 @@
 | Competition                                                                                              | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)                            | Classification        | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iNMV8kik9ue6sy8DPgG73zT7wO_pQKtB?usp=sharing) |
-| [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)  | Instance Segmentation |                  |
+| [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)  | Instance Segmentation <br> (Object Detection) |                  |
 | [Aerial Semantic Segmentation Drone Dataset](https://www.kaggle.com/c/aerial-cactus-identification/data) | Semantic Segmentation |                  |
 | [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started)                        | Style Transfer        |                  |
