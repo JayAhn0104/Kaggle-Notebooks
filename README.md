@@ -1,7 +1,7 @@
 # Kaggle Notebooks
 
 ## Tabular Data
-| Competition                                                                         | Problem Type               | Notebook (colab)                                                                                            |
+| Competition / Data                                                                      | Problem Type               | Notebook (colab)                                                                                            |
 |-------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------|
 | [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)                                         | Binary Classification      | [Titanic.ipynb](https://colab.research.google.com/drive/1okqZ7yFba9xVnke9Px3AapLunupCeMog?usp=sharing)      |
 | [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression                 | [House_Price.ipynb](https://colab.research.google.com/drive/1n9XYmcvefp6rSD-rH7uZqfw3eVQ_cnxh?usp=sharing)  |
@@ -9,8 +9,14 @@
 | [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)                 | Multi-output Regression    | [Bike_Sharing_Demand.ipynb](https://colab.research.google.com/drive/1FihAHMXlpPxLwlpa-B261IcY1zisMrEL?usp=sharing) |
 | [Prudential Life Insurance Assessment](https://www.kaggle.com/c/prudential-life-insurance-assessment)                 | Ordinal Classification    | [Prudential_Risk.ipynb](https://colab.research.google.com/drive/1WPxPqsUsWxgZcmeHRsXn-jYR6aJLdegO?usp=sharing) |
 
+## Recommendation
+| Competition / Data                                                                                       | Problem Type          | Notebook (colab) |
+|----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
+| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Regression (Matrix Completion)        | [MF.ipynb](https://colab.research.google.com/drive/1bFejhfvL_hAvyvJSAo2GuOwTYIdGO6pR?usp=sharing)|
+
+
 ## Image Data
-| Competition                                                                                              | Problem Type          | Notebook (colab) |
+| Competition / Data                                                                                          | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)                            | Classification        | [ResNet34_Pretrained.ipynb](https://colab.research.google.com/drive/1iNMV8kik9ue6sy8DPgG73zT7wO_pQKtB?usp=sharing) <br> [ResNet18_Scratch.ipynb](https://colab.research.google.com/drive/1d1jMyWEWMVLBvOOvU5AAhD69V9_uSZDF?usp=sharing) <br> [NiN_Scratch.ipynb](https://colab.research.google.com/drive/1X_MktEUblvBMyfZebMm88sEj0oQL3HEE?usp=sharing)|
 | [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)  | Instance Segmentation <br> (Object Detection) |                  |
