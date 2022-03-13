@@ -12,7 +12,7 @@
 ## Recommendation
 | Competition / Data                                                                                       | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
-| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Regression (Matrix Completion)        | [MF.ipynb](https://colab.research.google.com/drive/1bFejhfvL_hAvyvJSAo2GuOwTYIdGO6pR?usp=sharing) <br> [AutoRec.ipynb](https://colab.research.google.com/drive/1r_50WEsS2s3DGbPW-4HQoUnXZd4KMyHB?usp=sharing) |
+| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Matrix Completion (Regression on explicit feedback)  | [MF.ipynb](https://colab.research.google.com/drive/1bFejhfvL_hAvyvJSAo2GuOwTYIdGO6pR?usp=sharing) <br> [AutoRec.ipynb](https://colab.research.google.com/drive/1r_50WEsS2s3DGbPW-4HQoUnXZd4KMyHB?usp=sharing) |
 
 
 ## Image Data
