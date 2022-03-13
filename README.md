@@ -12,8 +12,8 @@
 ## Recommendation
 | Competition / Data                                                                                       | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
-| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Matrix Completion (on explicit feedback)  | [MF.ipynb](https://colab.research.google.com/drive/1bFejhfvL_hAvyvJSAo2GuOwTYIdGO6pR?usp=sharing) <br> [AutoRec.ipynb](https://colab.research.google.com/drive/1r_50WEsS2s3DGbPW-4HQoUnXZd4KMyHB?usp=sharing) <br> [NeuralCF.ipynb](https://colab.research.google.com/drive/1OFQ_yWmjNZScot-qxvkP-cYGI9sHHFtt?usp=sharing) |
-| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Matrix Completion (on implicit feedback)  | [NeuralCF.ipynb](https://colab.research.google.com/drive/1cYMOXcBmzL5wamnJfE6-3H-XoI-1NcQk?usp=sharing) |
+| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Matrix Completion (on explicit feedback)  | [MF.ipynb](https://colab.research.google.com/drive/1bFejhfvL_hAvyvJSAo2GuOwTYIdGO6pR?usp=sharing) <br> [AutoRec.ipynb](https://colab.research.google.com/drive/1r_50WEsS2s3DGbPW-4HQoUnXZd4KMyHB?usp=sharing) <br> [NeuralCF_(explicit).ipynb](https://colab.research.google.com/drive/1OFQ_yWmjNZScot-qxvkP-cYGI9sHHFtt?usp=sharing) |
+| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Matrix Completion (on implicit feedback)  | [NeuralCF_(implicit).ipynb](https://colab.research.google.com/drive/1cYMOXcBmzL5wamnJfE6-3H-XoI-1NcQk?usp=sharing) |
 
 ## Image Data
 | Competition / Data                                                                                          | Problem Type          | Notebook (colab) |
