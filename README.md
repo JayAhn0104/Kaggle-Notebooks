@@ -13,7 +13,7 @@
 | Competition / Data                                                                                       | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
 | [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Matrix Completion (on explicit feedback)  | [ML100k_MF.ipynb](https://colab.research.google.com/drive/1bFejhfvL_hAvyvJSAo2GuOwTYIdGO6pR?usp=sharing) <br> [ML100k_AutoRec.ipynb](https://colab.research.google.com/drive/1r_50WEsS2s3DGbPW-4HQoUnXZd4KMyHB?usp=sharing) <br> [ML100k_NeuralCF.ipynb](https://colab.research.google.com/drive/1OFQ_yWmjNZScot-qxvkP-cYGI9sHHFtt?usp=sharing) |
-| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Personalized Ranking prediction (on implicit feedback)  | [ML100k_NeuralCF_(implicit).ipynb](https://colab.research.google.com/drive/1cYMOXcBmzL5wamnJfE6-3H-XoI-1NcQk?usp=sharing) |
+| [MovieLens 100K Dataset](https://www.kaggle.com/prajitdatta/movielens-100k-dataset)                            | Personalized Ranking prediction (on implicit feedback)  | [ML100k_NeuralCF_(implicit).ipynb](https://colab.research.google.com/drive/1cYMOXcBmzL5wamnJfE6-3H-XoI-1NcQk?usp=sharing) <br> [ML100k_Caser_(implicit_sequence-aware)](https://colab.research.google.com/drive/12A645NnzWCwLYaYJlFQL6pAwUa7pWj22?usp=sharing) |
 
 ## Image Data
 | Competition / Data                                                                                          | Problem Type          | Notebook (colab) |
