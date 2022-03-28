@@ -20,7 +20,8 @@
 | Competition / Data                                                                                          | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
 | [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)                            | Classification        | [ResNet34_Pretrained.ipynb](https://colab.research.google.com/drive/1iNMV8kik9ue6sy8DPgG73zT7wO_pQKtB?usp=sharing) <br> [ResNet18_Scratch.ipynb](https://colab.research.google.com/drive/1d1jMyWEWMVLBvOOvU5AAhD69V9_uSZDF?usp=sharing) <br> [NiN_Scratch.ipynb](https://colab.research.google.com/drive/1X_MktEUblvBMyfZebMm88sEj0oQL3HEE?usp=sharing)|
-| [Generative Dog Images](https://www.kaggle.com/competitions/generative-dog-images)                            | Generation        | [DCGAN_Scratch.ipynb](https://colab.research.google.com/drive/1RI04dr6EztTvhaGkgv4NNClfxRynN6dC?usp=sharing)|
+| [Generative Dog Images](https://www.kaggle.com/competitions/generative-dog-images)                            | Generation        | [DCGAN_Scratch.ipynb](https://colab.research.google.com/drive/1wnSNIV6uiL7r4prkPxs-yDMyDzaG3R7J?usp=sharing) <br> [DCGAN_Tune.ipynb](https://colab.research.google.com/drive/1RI04dr6EztTvhaGkgv4NNClfxRynN6dC?usp=sharing) | 
+| [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started)                        | Style Transfer        |                  |
 | [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)  | Instance Segmentation <br> (Object Detection) | [MaskRCNN.ipynb](https://colab.research.google.com/drive/1tTYRj-9Z-IXlXlLYe0EVPGEERtwYU29j?usp=sharing)                  |
 | [Ultrasound Nerve Segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation/overview) | Semantic Segmentation |                  |
-| [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started)                        | Style Transfer        |                  |
+
