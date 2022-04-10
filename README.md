@@ -28,5 +28,5 @@
 ## Sequential Data
 | Competition / Data                                                                                          | Problem Type          | Notebook (colab) |
 |----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
-| [Pump Sensor Data](https://www.kaggle.com/datasets/nphantawee/pump-sensor-data)                            | Multivariate Time Series Anomaly Detection       | [LSTM_AutoEncoder.ipynb](https://colab.research.google.com/drive/1iOdhjbuNhE1nesQiY5ST6RCWlWao9MCz?usp=sharing)|
+| [Pump Sensor Data](https://www.kaggle.com/datasets/nphantawee/pump-sensor-data)                            | Multivariate Time Series Anomaly Detection       | [LSTM_Encoder_Decoder.ipynb](https://colab.research.google.com/drive/1iOdhjbuNhE1nesQiY5ST6RCWlWao9MCz?usp=sharing)|
 
