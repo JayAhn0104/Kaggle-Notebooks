@@ -25,4 +25,8 @@
 | [PASCAL VOC 2012](https://www.kaggle.com/datasets/huanghanchina/pascal-voc-2012) | Semantic Segmentation | [FCN_ResNet18.ipynb](https://colab.research.google.com/drive/1C-o68TRZc8YThVyEWbLnEKn-G0_JgwK0?usp=sharing)                 |
 | [Sartorius - Cell Instance Segmentation](https://www.kaggle.com/c/sartorius-cell-instance-segmentation)  | Instance Segmentation | [MaskRCNN.ipynb](https://colab.research.google.com/drive/1tTYRj-9Z-IXlXlLYe0EVPGEERtwYU29j?usp=sharing)                  |
 
+## Sequential Data
+| Competition / Data                                                                                          | Problem Type          | Notebook (colab) |
+|----------------------------------------------------------------------------------------------------------|-----------------------|------------------|
+| [Pump Sensor Data](https://www.kaggle.com/datasets/nphantawee/pump-sensor-data)                            | Multivariate Time Series Anomaly Detection       | [LSTM_AutoEncoder.ipynb](https://colab.research.google.com/drive/1iOdhjbuNhE1nesQiY5ST6RCWlWao9MCz?usp=sharing)|
 
