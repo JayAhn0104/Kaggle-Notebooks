@@ -1,6 +1,6 @@
 # Kaggle Notebooks
 - Kaggle 컴피티션/데이터에 대한 문제해결 아카이브 입니다. 
-- 모든 코드는 [Colab](https://colab.research.google.com/) 으로 작성되었습니다.
+- 모든 코드는 [Colab](https://colab.research.google.com/) 에서 작성되었습니다.
 
 ## Tabular Data
 | Competition / Data                                                                      | Problem Type               | Notebook (colab)                                                                                            |
