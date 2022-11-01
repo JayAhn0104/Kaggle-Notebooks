@@ -7,13 +7,13 @@
   - Working Environment: [Colab Notebook](https://colab.research.google.com/)
 
 ## Tabular Data
-| Competition / Data                                                                      | Problem Type               | Code                                                                                        |
-|-------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------|
-| [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)                                         | Binary Classification      | [Notebook(kor)](https://colab.research.google.com/drive/1okqZ7yFba9xVnke9Px3AapLunupCeMog?usp=sharing)      |
-| [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression                 | [Notebook(kor)](https://colab.research.google.com/drive/1n9XYmcvefp6rSD-rH7uZqfw3eVQ_cnxh?usp=sharing)  |
-| [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)          | Multi-class Classification | [Notebook(kor)](https://colab.research.google.com/drive/1Kgd6OOrRE7rXrl62HTu4PHtAED2d2zWJ?usp=sharing)  |
-| [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)                 | Multi-output Regression    | [Notebook(kor)](https://colab.research.google.com/drive/1FihAHMXlpPxLwlpa-B261IcY1zisMrEL?usp=sharing) |
-| [Prudential Life Insurance Assessment](https://www.kaggle.com/c/prudential-life-insurance-assessment)                 | Ordinal Classification    | [Notebook(kor)](https://colab.research.google.com/drive/1WPxPqsUsWxgZcmeHRsXn-jYR6aJLdegO?usp=sharing) |
+| Competition / Data                                                                      | Problem Type        |       | Code                                                                                        |
+|-------------------------------------------------------------------------------------|----------------------------|---------------------------|----------------------------------------------------------------------------------|
+| [Titanic](https://www.kaggle.com/c/titanic)                                         | Binary Classification  | Linear, RF, XGB, MLP / Stack   | [Notebook(kor)](https://colab.research.google.com/drive/1okqZ7yFba9xVnke9Px3AapLunupCeMog?usp=sharing)      |
+| [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) | Regression         |     Linear, SVM, RF, XGB, MLP / Stack   | [Notebook(kor)](https://colab.research.google.com/drive/1n9XYmcvefp6rSD-rH7uZqfw3eVQ_cnxh?usp=sharing)  |
+| [Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)          | Multi-class Classification | Linear, RF, XGB, MLP / Stack | [Notebook(kor)](https://colab.research.google.com/drive/1Kgd6OOrRE7rXrl62HTu4PHtAED2d2zWJ?usp=sharing)  |
+| [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)                 | Multi-output Regression | Linear, SVM, RF, XGB, MLP / Stack  | [Notebook(kor)](https://colab.research.google.com/drive/1FihAHMXlpPxLwlpa-B261IcY1zisMrEL?usp=sharing) |
+| [Prudential Life Insurance Assessment](https://www.kaggle.com/c/prudential-life-insurance-assessment)                 | Ordinal Classification | Linear, RF, XGB, MLP / Stack  | [Notebook(kor)](https://colab.research.google.com/drive/1WPxPqsUsWxgZcmeHRsXn-jYR6aJLdegO?usp=sharing) |
 
 ## Sequential Data
 | Competition / Data                                                                                          | Problem Type        | Model  | Code |
