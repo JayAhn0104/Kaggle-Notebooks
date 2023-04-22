@@ -1,5 +1,5 @@
 # Kaggle Notebooks
-- Predictive modeling Notebook for Kaggle competitions/data archive
+- Predictive modeling Notebooks for Kaggle competition
 - Tools
   - Language: Python3.7
   - Modeling Framework: [Scikit-Learn](https://scikit-learn.org/stable/), [PyTorch](https://pytorch.org/)
